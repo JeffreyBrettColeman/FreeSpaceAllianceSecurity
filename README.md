@@ -2,4 +2,4 @@
 
 # FreeSpaceAllianceSecurity
 
-An API for a Dnd Campeign for A launch tower dungeon.
+An API for a Dnd campaign for A launch tower dungeon.
