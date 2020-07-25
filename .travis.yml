@@ -4,4 +4,4 @@ script:
 	- jdk_switcher use openjdk14
 	- mvn clean verify
 jdk:
-	- openjdk14
+	- openjdk-ea
