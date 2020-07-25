@@ -1,7 +1,4 @@
 language: java
 sudo: false
-script: 
-	- jdk_switcher use openjdk14
-	- mvn clean verify
-jdk:
-	- openjdk-ea
+script: mvn clean verify
+jdk: openjdk-ea
